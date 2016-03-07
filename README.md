@@ -5,6 +5,7 @@ Jitsi is a free open-source audio/video and chat communicator that supports prot
 
 Helpful Resources
 -----------------
+- https://www.powerpbx.org/content/jitsi-sip-communicator-source-code-make-build-guide-windows-v1
 - https://jitsi.org
 - [Download](https://download.jitsi.org) pre-built packages
 - [Mailing lists](https://jitsi.org/Development/MailingLists)
