@@ -609,11 +609,11 @@ public class AutoAnswerMenu
          * Header name.
          */
         private static final String AUTO_ALERT_INFO_NAME = "Alert-Info";
-
+        
         /**
-         * Header name.
+         * Header value 2.  For Asterisk.
          */
-        private static final String AUTO_ALERT_INFO_VALUE = "Auto Answer";
+        private static final String AUTO_ALERT_INFO_VALUE = "Ring Answer";
 
         /**
          * The provider.
